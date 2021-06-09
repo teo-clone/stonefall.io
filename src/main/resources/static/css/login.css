@@ -1,0 +1,66 @@
+#main {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('../img/cartoon_castle_2.jpg');
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'lato';
+  color: white;
+}
+
+#loginForm {
+  padding-top: 5vh;
+}
+
+#createdBy{
+  text-decoration: none;
+  font-family: 'lato';
+  color: white;
+  font-size: 10px;
+}
+
+#donateForm{
+  display: none;
+}
+
+#aboutButton{
+  margin-top:10vh;
+}
+
+h1 {
+  padding-top: 5vh;
+  margin: 0;
+  padding-bottom: 20vh;
+}
+
+input {
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+  outline: none;
+}
+
+#instructionsHeader {
+  margin-bottom: 1vh;
+}
+
+#instruction{
+  margin-top: 0vh;
+}
+
+#myName {
+  font-size: 15pt;
+  width: 350px;
+  height: 40px;
+}
+
+#submitButton {
+  font-size: 20pt;
+}
+
+/* instructions  */
+#instructions {
+  font-size: 15pt;
+}

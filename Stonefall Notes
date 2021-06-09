@@ -1,0 +1,18 @@
+when are my objects ever checked:
+	canvas.js
+	game.js
+	websockets.java
+	websockets.js has one call but idk where it goes
+	handlers.js
+	penciller.js
+
+need to change the fact that I'm passing objects and a subset of objects, that's bad code
+
+new game translation mechanism
+	(1) need to get user's current window
+		and any players they have selected already 
+	(2) for each object in the game
+		(a) check whose coordinates it is in
+		(b) add it to that person's payload
+	...now we have a payload per player in their window
+	

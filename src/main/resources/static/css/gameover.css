@@ -1,0 +1,12 @@
+h1 {
+  padding-top: 37vh;
+  padding-bottom: 0vh;
+}
+
+#maxScore{
+  padding-bottom: 5vh;
+}
+
+#serversFull{
+  font-size: 1em;
+}
